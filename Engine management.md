@@ -9,11 +9,11 @@ A: One of the most common piggyback engine management systems used for turbochar
 
 Other options include the Apexi SAFC (Super Air Flow Converter) and the GReddy e-Manage. However, the choice ultimately depends on specific needs, preferences, and compatibility with the vehicle's setup. It's always advisable to consult with experienced tuners or professionals familiar with turbocharging setups for tailored recommendations.
 
-### About the AEM controler
+### About the AEM controller https://www.endlessrpm.com/aem-fic-8-universal-fuel-ignition-controller/
 
-Q: How does AEM's ECU piggyback system work in conjunction with the engines factory installed computer?
+Q: How does AEM's ECU piggyback system work in conjunction with the engine's factory-installed computer?
 
-Does AEM's controller function by tricking the factory installed computer into thinking that conditions are normal?
+Does AEM's controller function by tricking the factory-installed computer into thinking that conditions are normal?
 
 A: The AEM F/IC (Fuel/Ignition Controller) is a piggyback engine management system designed to work alongside the factory ECU rather than replacing it entirely. It doesn't necessarily "trick" the factory ECU into thinking conditions are normal, but rather it intercepts and modifies signals sent between the engine sensors and the ECU to adjust fuel and ignition timing.
 
@@ -31,6 +31,6 @@ Here's a basic overview of how the AEM F/IC typically works:
 
 Overall, the AEM F/IC works in tandem with the factory ECU to provide additional control over fuel and ignition parameters, allowing for proper tuning and optimization of a turbocharged engine without the need for a full standalone engine management system.
 
-This link contains Toyota specific AEM controller setup information. https://www.toyota-4runner.org/3rd-gen-t4rs/201223-how-aem-f-ic-6-install-tuning-help-thread.html
+This link contains Toyota-specific AEM controller setup information. https://www.toyota-4runner.org/3rd-gen-t4rs/201223-how-aem-f-ic-6-install-tuning-help-thread.html
 
-### Configurating the AEM Controler
+### Configuring the AEM Controler
