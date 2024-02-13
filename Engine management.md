@@ -31,4 +31,6 @@ Here's a basic overview of how the AEM F/IC typically works:
 
 Overall, the AEM F/IC works in tandem with the factory ECU to provide additional control over fuel and ignition parameters, allowing for proper tuning and optimization of a turbocharged engine without the need for a full standalone engine management system.
 
+This link contains Toyota specific AEM controller setup information. https://www.toyota-4runner.org/3rd-gen-t4rs/201223-how-aem-f-ic-6-install-tuning-help-thread.html
+
 ### Configurating the AEM Controler
